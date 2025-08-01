@@ -1,4 +1,13 @@
-# Running the Projects
+# Payment Integration with Mercado Pago APIs
+
+![Mercado Pago Logo, Yellow background](mercadopago.png "Mercado Pago Logo, Yellow background")
+
+
+## About This Repository
+This repository contains multiple applications that demonstrate integrations with different Mercado Pago APIs. Each application serves as a focused learning exercise and testing environment, designed to explore specific API features and integration patterns. While these examples provide practical implementation guidance and can serve as reference material for others, they are intentionally streamlined to concentrate on core API functionality and integration concepts rather than comprehensive production-level considerations. 
+
+
+## Running the Projects
 
 All the apps contained in this repository are Next.js applications that requires Node.js to run. Follow these steps to get the projects running locally:
 
