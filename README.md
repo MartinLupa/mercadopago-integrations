@@ -25,7 +25,12 @@ All the apps contained in this repository are Next.js applications that requires
    cd <project-directory>
    ```
 
-2. **Install dependencies**
+2. **Choose the integration folder**
+   ```bash
+   cd mercadopago-pro #Or any other integration.
+   ```
+
+3. **Install dependencies**
    ```bash
    # Using npm
    npm install
@@ -35,11 +40,6 @@ All the apps contained in this repository are Next.js applications that requires
    
    # Using pnpm
    pnpm install
-   ```
-
-3. **Choose the integration folder**
-   ```bash
-   cd mercadopago-pro #Or any other integration.
    ```
 
 3. **Set up environment variables**
